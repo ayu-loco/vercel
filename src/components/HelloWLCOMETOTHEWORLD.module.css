@@ -1,0 +1,12 @@
+.letsExploreTravelTheWor {
+  align-self: stretch;
+  position: relative;
+  line-height: 67px;
+  display: inline-block;
+}
+@media screen and (max-width: 650px) {
+  .letsExploreTravelTheWor {
+    font-size: var(--font-size-8xl);
+    line-height: 48px;
+  }
+}
